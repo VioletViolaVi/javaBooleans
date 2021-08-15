@@ -19,6 +19,5 @@ public class Booleans {
         System.out.println("Boolean.parseBoolean(\"TrUE\") is " + Boolean.parseBoolean("TrUE"));
         System.out.println("Boolean.parseBoolean(\"false\") is " + Boolean.parseBoolean("false"));
         System.out.println("Boolean.parseBoolean(\"This will show up as false\") is " + Boolean.parseBoolean("This will show up as false"));
-
     }
 }
